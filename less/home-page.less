@@ -60,7 +60,9 @@
 }
     .walk-text {
       width: 100%;
-      
+      @media @phone {
+        width:100%;
+      }
       }
 
       h3 {
@@ -81,8 +83,8 @@
         .button(@btn-bg-color,4rem,10rem,white);
         padding:2rem;
         @media @phone{
-          .button(@btn-bg-color, 4rem, 30rem,white )
-        
+          .button(@btn-bg-color, 4rem, 50rem,white )
+          
         }
       }
     }
