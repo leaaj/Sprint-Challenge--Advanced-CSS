@@ -34,9 +34,14 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. What is the difference between an adaptive website and a fully responsive website?
 
+
 2. Describe what it means to be mobile first vs desktop first.
 
+
+
 3. What does `font-size: 62.5%` in the `html` tag do for us when using `rem` units?
+
+it allows the rem units to be in multiples of ten, ex: 1rem=10px
 
 4. How would you describe preprocessing to someone new to CSS?
 
